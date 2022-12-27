@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+   Jordan
 
 # TECHNOLOGY COLOPHON
 
