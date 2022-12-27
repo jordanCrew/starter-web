@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Jordan Crew jordan.crew@gmail.com jordan.crew
 
 # THANKS
 
